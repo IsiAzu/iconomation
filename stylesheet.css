@@ -1,0 +1,24 @@
+
+body {
+    text-align: center;
+}
+
+.playspace {
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    position: relative;
+    border: 3px solid green;
+}
+
+i {
+    position: absolute;
+}
+
+.cracked-egg{
+    background-image: url("cracked-egg.png");
+}
+
+.droopy-egg{
+    background-image: url("droopy-egg.png");
+}
